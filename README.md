@@ -75,15 +75,15 @@ Promoted to lead Web Development Group activities in 1998; recruited and led pro
 
 Created and executed the project for Web Development Group’s *production process standardization* by using Rational Unified Process. Major projects:
 
-* **Tofas–Fiat Auto,** Web Site Design and Development, *www.tofas.com.tr,* www.fiat.com.tr
+* **Tofas–Fiat Auto,** Web Site Design and Development, www.tofas.com.tr, www.fiat.com.tr
 
 * E-Commerce Site Design & Development, www.kangurum.com.tr
 
 * DHTML based interactive presentation system for Marketing Department developed in IBM’s VisualAge for Smalltalk
 
-* **Roche Diagnostics Turkey** | Web Site Design and Development for diabetes, *www.diyabetevi.com*
+* **Roche Diagnostics Turkey** | Web Site Design and Development for diabetes, www.diyabetevi.com
 
-* **Arcelik**, one of the top ten appliance companies in Europe |  E-Learning System, CDI based product training for 1500 service centers nationwide
+* **Arcelik**, one of the top ten appliance companies in Europe | E-Learning System, CDI based product training for 1500 service centers nationwide
 
 * **Takasbank, Stock Exchange Settlement and Custody Bank of Turkey** | Web Based Securities Tracking System
 
@@ -94,7 +94,7 @@ LINK Multimedia Solutions, Istanbul, Turkey
 
 Led and supervised creative and technical development teams on interactive projects, and managed project deliverables. Major Projects:
 
-* **Istanbul City Guide** www.istanbulcityguide.com | *Bronze Award in Media Excellence (AIME) - by Media Communications Association International*
+* **Istanbul City Guide** | *Bronze Award in Media Excellence (AIME) - by Media Communications Association International*
 
 * **Turkish National Olympic Committee** | Istanbul Candidacy Campaign Interactive Kiosks & Presentations in Atlanta Olympics, 1996
 
